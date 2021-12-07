@@ -4,7 +4,6 @@ import numpy as np
 import pandas as pd
 import altair as alt
 import streamlit as st
-import sklearn
 from sklearn.linear_model import LinearRegression
 
 st.title("Does Drinking Affect Students' Education?")
