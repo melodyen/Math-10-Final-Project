@@ -105,6 +105,6 @@ st.markdown("Information about the legal drinking age in Portugal was found [her
 st.markdown("The [linear regression](https://christopherdavisuci.github.io/UCI-Math-10/Week5/Week5-Wednesday.html) portion was done in class.")
 
 st.subheader("GitHub")
-st.markdown("[GitHub repository](https://github.com/melodyen/Math-10-Final-Project".)
+st.markdown("[GitHub repository](https://github.com/melodyen/Math-10-Final-Project.")
     
  
