@@ -9,7 +9,7 @@ from sklearn.linear_model import LinearRegression
 st.title("Does Drinking Affect Students' Education?")
 st.markdown("Today, we will be determining whether alcohol consumption, as well as some other factors, affect students' grades. Below is a study done in 2 secondary schools in Portugal, where the legal drinking age is 16 for wine and beer, and 18 for all alcoholic beverages.")
 
-df = pd.read_csv("/Users/melodyen/Documents/School/Math 10/student-mat.csv")
+df = pd.read_csv("student-mat.csv")
 
 # I decided to only focus on certain columns of the dataframe, and removed the unnecessary columns.
 st.markdown("We will be focusing on the students' age, family relationship, amount of free time, weekday alcohol consumption, weekend alcohol consumption, health status, and finally, their final grade.")
