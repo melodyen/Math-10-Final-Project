@@ -102,6 +102,9 @@ with st.form('Survey'):
 st.subheader("References")
 st.markdown("The dataset was found on [Kaggle](https://www.kaggle.com/uciml/student-alcohol-consumption?select=student-mat.csv).")
 st.markdown("Information about the legal drinking age in Portugal was found [here](https://www.tripadvisor.com/ShowTopic-g189158-i203-k11732586-Drinking_Age_in_Portugal-Lisbon_Lisbon_District_Central_Portugal.html).")
-st.markdown("The [linear regression](https://christopherdavisuci.github.io/UCI-Math-10/Week5/Week5-Wednesday.html) portion was done in class. ")
+st.markdown("The [linear regression](https://christopherdavisuci.github.io/UCI-Math-10/Week5/Week5-Wednesday.html) portion was done in class.")
+
+st.subhead("GitHub")
+st.markdown("[GitHub repository](https://github.com/melodyen/Math-10-Final-Project")
     
  
